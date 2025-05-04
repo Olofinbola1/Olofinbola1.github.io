@@ -4,9 +4,8 @@ Welcome to my GitHub Page!
 
 ## About Me
 
-I'm an aspiring cybersecurity specialist with a strong passion for protecting digital systems and understanding how real-world cyber threats work. As a lifelong learner, I'm currently exploring tools like *Wireshark, Snort, Hydra, Wazuh, and pfSense* while building hands-on skills in ethical hacking, network monitoring, and threat detection.
-
-Every small success — whether it's detecting a suspicious packet or simulating a brute-force attack in a lab environment — motivates me to keep learning and improving.
+I'm an aspiring cybersecurity specialist with a strong passion for protecting digital systems and understanding how real-world cyber threats work. As a lifelong learner, I'm currently exploring tools like *Wireshark, ubuntu, kali,  Wazuh, and pfSense* while building hands-on skills in ethical hacking, network monitoring, and threat detection.
+Every small success whether it's detecting a suspicious packet or simulating a brute-force attack in a lab environment motivates me to keep learning and improving.
 
 ## Current Goals
 
